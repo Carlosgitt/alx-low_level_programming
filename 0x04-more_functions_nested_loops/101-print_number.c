@@ -1,5 +1,5 @@
-void print_number(int n);
 #include "main.h"
+#inclue "stdio.h"
 
 /**
  * print_number - prints an integer
